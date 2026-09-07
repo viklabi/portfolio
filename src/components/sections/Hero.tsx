@@ -65,7 +65,7 @@ export const Hero = () => {
                   className="absolute -bottom-1 left-0 h-0.75 w-full origin-left rounded-full bg-linear-to-r from-primary to-accent"
                 />
               </span>{ ' ' }
-              of software, electronics and healthcare.
+              of software, electronics and AI.
             </motion.h1>
 
             <motion.p
@@ -75,8 +75,7 @@ export const Hero = () => {
               className="mt-6 max-w-8xl w-full text-pretty text-base leading-relaxed text-muted-foreground sm:text-lg text-center"
             >
               An engineering student and frontend developer exploring how AI, IoT,
-              robotics and embedded systems can come together to shape the future of
-              healthcare technology.
+              robotics and embedded systems can come together to shape the future of technology.
             </motion.p>
           </div>
 

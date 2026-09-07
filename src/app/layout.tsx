@@ -19,7 +19,7 @@ const mono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Victor Owolabi — Electronic & Electrical Engineer',
+  title: 'Victor Owolabi Electronic & Electrical Engineer',
   description:
     'Victor Owolabi builds intelligent systems at the intersection of software, electronics and healthcare. Electronic & Electrical Engineering student at Obafemi Awolowo University, and frontend developer.',
   keywords: [
